@@ -3,6 +3,10 @@
 一个简单的轮播，100行代码实现了移动端和pc端兼容的滑动。
 纯原生JS，练手写了个轻量级的轮播图插件，无第三方依赖，开箱即用，没有过多的繁杂配置。
 
+### demo ###
+
+https://stmory.github.io/html/slide.html
+
 ### Usage ###
 
 ```html
